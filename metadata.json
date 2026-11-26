@@ -1,0 +1,8 @@
+{
+  "name": "CoinVolt — Volume Increase Bot & Meme Coin Liquidity Platform",
+  "description": "Institutional-grade meme coin volume increase bot and automated liquidity dashboard. Deposit USD across 10 calibrated tiers to scale on-chain DEX trading volume.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
