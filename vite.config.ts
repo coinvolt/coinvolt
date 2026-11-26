@@ -7,7 +7,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => { 
   
   return {  
-    base: '/',
+    base: '/coinvolt/',
           
     plugins: [
       react(),
