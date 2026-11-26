@@ -5,8 +5,10 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => { 
-  base: '/',
-  return {
+  
+  return {  
+    base: '/',
+          
     plugins: [
       react(),
       tailwindcss(),
