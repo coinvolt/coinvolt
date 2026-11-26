@@ -4,7 +4,8 @@ import fs from 'fs';
 import path from 'path';
 import {defineConfig} from 'vite';
 
-export default defineConfig(() => {
+export default defineConfig(() => { 
+  base: '/',
   return {
     plugins: [
       react(),
